@@ -1,0 +1,36 @@
+.brand-container{
+    height: 1400px;
+    width: 1206px;
+    background-color: rgb(250, 251, 252);
+    position: relative;
+    top: -220px;
+
+    .brand_text1{
+        color: rgb(37, 2, 48);
+        width: 150px;
+        margin-left: 100px;
+        padding-top: 180px;
+    }
+     .brand_text2{
+        color: rgb(37, 2, 48);
+        width: 365px;
+        margin-left: 100px;
+        padding-top: 0px;
+    }
+    .brand_img{
+       width: 500px;
+       margin-left: 500px;
+       top: -300px;
+       position: relative;
+    }
+    .brand_btn{
+        margin-top: 10px;
+        margin-right: 630px;
+        width: 350px;
+        background-color: rgb(48, 5, 49);
+    }
+    .brand_img2{
+        width: 1100px;
+        margin-left: 00px;
+     }
+}

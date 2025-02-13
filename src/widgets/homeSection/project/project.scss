@@ -1,0 +1,33 @@
+.project-container{
+    height: 1650px;
+    width: 1206px;
+    background-color: rgb(250, 251, 252);
+    position: relative;
+    top: -250px;
+
+    .project_text1{
+        color:  rgb(37, 2, 48);
+        padding-top: 260px;
+        margin-left: 750px;
+
+    }
+    .project_text2{
+        color:  rgb(37, 2, 48);
+        width: 410px;
+        margin-left: 650px;
+    }
+    .projectImg1{
+        width: 600px;
+        margin-right: 710px;
+        position: relative;
+        top: -1230px;
+    }
+    .projectImg2{
+        width: 950px;
+        margin-right: 710px;
+        // position: relative;
+        // top: 00px;
+        padding-top: 160px;
+    }
+   
+}
