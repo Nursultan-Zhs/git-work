@@ -17,6 +17,8 @@ export const Project = () => {
                 phasellus tristique ullamcorper 
                 velit dolor ac. Odio at imperdiet laoreet risus</p>
 
+                <button className='project_btn'>How big?</button>
+
 
                 <img className='projectImg2' src={projectImg2} alt="" />
 

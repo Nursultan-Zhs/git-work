@@ -1,18 +1,45 @@
 .advertising-container{
-    height: 1650px;
+    height: 1050px;
     width: 1206px;
     background-color: rgb(250, 251, 252);
     position: relative;
     top: -270px;
 
     .img1{
-        width:850px;
+        width:800px;
         margin-left: 280px;
     }
     .img2{
         width:108px;
-        margin-left: 750px;
+        position: absolute;
+        top: 320px;
+        margin-left: -250px;
+    }
+    .img3{
         position: relative;
-        top: -350px;
+        width: 590px;
+        top: -535px;
+        margin-left: 50px;
+    }
+    .text1{
+        color: rgb(37, 2, 48);
+        width: 150px;
+        position: relative;
+        top: -790px;
+        margin-left: 100px;
+    }
+    .text2{
+        color: rgb(37, 2, 48);
+        width: 380px;
+        position: relative;
+        top: -760px;
+        margin-left: 100px;
+    }
+    .btn{
+        position: relative;
+        top: -750px;
+        margin-left: -640px;
+        width: 350px;
+        background-color: rgb(48, 5, 49);
     }
 }

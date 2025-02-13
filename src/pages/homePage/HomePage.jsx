@@ -1,7 +1,8 @@
-import { Brand } from "../../widgets";
+import { Brand} from "../../widgets";
 import { Baner } from "../../widgets/homeSection/baner/Baner";
 import { Project } from "../../widgets";
 import { Advertising } from "../../widgets/homeSection/advertising/Advertising";
+import { Footer } from "../../widgets/homeSection/footer/Footer";
 
 export const HomePage = () => {
     return (
@@ -10,6 +11,7 @@ export const HomePage = () => {
             <Brand />
             <Project />
             <Advertising />
+            <Footer />
         </div>
     );
 }

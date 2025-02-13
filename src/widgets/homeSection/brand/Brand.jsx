@@ -17,6 +17,8 @@ export  const Brand = () => {
 
             <button className='brand_btn'>Huston, we have a solution!</button>
 
+            
+
                 <img className='brand_img' src={cosmosImg} alt="" />
 
                 <img className='brand_img2' src={asteroidImg} alt="" />
